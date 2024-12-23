@@ -1,2 +1,2 @@
-# naveen
-My personal Repository
+## About me
+My name is Banoth Naveen
